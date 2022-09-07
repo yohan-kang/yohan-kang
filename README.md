@@ -26,7 +26,7 @@
   
  ### 작업 경험
 
-[<img align="left" height="94px" width="94px" alt="KPN" src=https://cdn.imweb.me/thumbnail/20200204/77b33ee06076e.png"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src=https://cdn.imweb.me/thumbnail/20200204/77b33ee06076e.png"/>](https://sopoong.net/labsd/)
 
 **(주)랩에스디 (LABSD)** \
 [**안구보건**]((https://sopoong.net/labsd)/) • Contract \
