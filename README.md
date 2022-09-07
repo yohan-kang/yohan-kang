@@ -29,7 +29,7 @@
 [<img align="left" height="94px" width="94px" src=https://cdn.imweb.me/thumbnail/20200204/77b33ee06076e.png>](https://sopoong.net/labsd/)
 
 **(주)랩에스디 (LABSD)** \
-[**안구보건**]((https://sopoong.net/labsd)/) • Contract \
+[**안질환 종류 및 중증도를 자동으로 판별하는 소프트웨어, 휴대용 안저카메라**]((https://sopoong.net/labsd)/) • Contract \
 Languages & Technologies: `Python`, `django`, `JS`,\
 <br/>
 <br/>
