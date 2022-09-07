@@ -24,37 +24,17 @@
     </p>
 
   
- ### Work Experience
-In the overview below you will find my most recent work experience:
+ ### 작업 경험
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
 
-**Senior Site Reliability Engineer (SRE)** \
-[**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+**(주)랩에스디 (LABSD)** \
+[**안구보건**]((https://sopoong.net/labsd)/) • Contract \
+Languages & Technologies: `Python`, `django`, `JS`,\
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
-
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
-
-**DevOps Engineer** \
-[**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
-<br/>
-<br/>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
   
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
